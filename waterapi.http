@@ -1,0 +1,6 @@
+@waterapi_HostAddress = http://localhost:5198
+
+GET {{waterapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
